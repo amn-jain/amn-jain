@@ -2,7 +2,7 @@
 - 👀 I’m interested in real life applications of NLP and Machine Learning
 - 🌱 I’m currently learning about Cryptography, Probability and Statistics.
 - 💞️ I’m looking to collaborate on ...
-- [[params.social]]
+[[params.social]]
   icon = "linkedin"
   icon_pack = "fa"
   link = "https://www.linkedin.com/in/aman-jain-9331b01ab/"
