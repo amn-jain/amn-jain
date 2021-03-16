@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning about Cryptography, Probability and Statistics.
 <br>
 <br>
-<a href="https://www.linkedin.com/in/aman-jain-9331b01ab/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Aman's LinkedIN" width="22px" src="https://www.linkedin.com/in/aman-jain-9331b01ab/" />
+</a>
 
 <!---
 amanjain252002/amanjain252002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
