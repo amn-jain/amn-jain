@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning about Cryptography, Probability and Statistics.
 <br>
 <br>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Aman's LinkedIN" width="22px" src="https://www.linkedin.com/in/aman-jain-9331b01ab/" />
+<a href="https://www.linkedin.com/in/aman-jain-9331b01ab/">
+  <img align="left" alt="Aman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 
 <!---
