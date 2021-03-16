@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
 - 👋 Hi, I’m Aman Jain
 - 👀 I’m interested in real life applications of NLP and Machine Learning
 - 🌱 I’m currently learning about Cryptography, Probability and Statistics.
