@@ -16,21 +16,6 @@
 <a href="https://fb.com/amanjain252002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amanjain252002" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanjain252002&show_icons=true&locale=en&layout=compact" alt="amanjain252002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanjain252002&show_icons=true&locale=en&layout=compact" alt="amanjain252002" width='300px'/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanjain252002&show_icons=true&locale=en" alt="amanjain252002" /></p>
-
-<!--
-- 👋 Hi, I’m Aman Jain
-- 👀 I’m interested in real life applications of NLP and Machine Learning
-- 🌱 I’m currently learning about Cryptography, Probability and Statistics.
-<br>
-<br>
-<a href="https://www.linkedin.com/in/aman-jain-9331b01ab/">
-  <img align="left" alt="Aman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
-</a>
---->
-<!---
-amanjain252002/amanjain252002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=amanjain252002&show_icons=true&locale=en" alt="amanjain252002" width='400px'/></p>
