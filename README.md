@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Jain</h1>
 <h3 align="center">Undergraduate Student in Civil Engineering Department at IIT Kanpur</h3>
 
-- 🌱 I’m currently learning **Cryptography, Probability and Statistics**
+- 🌱 I’m currently learning **Machine Learning, Probability and Statistics**
 
 - 👨‍💻 All of my projects are available at [amanjain252002.github.io](https://amanjain252002.github.io/)
 
