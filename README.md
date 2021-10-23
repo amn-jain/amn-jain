@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Probability and Statistics**
 
-- 👨‍💻 All of my projects are available at [amanjain252002.github.io](https://amanjain252002.github.io/)
+- 👨‍💻 All of my projects are available at [ajain.netlify.app](https://ajain.netlify.app/)
 
 - 📫 How to reach me **ajain252002@gmail.com**
 
