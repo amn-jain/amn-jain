@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Jain</h1>
-<h3 align="center">Undergraduate Student in Civil Engineering Department at IIT Kanpur</h3>
+<h3 align="center">Junior Undergraduate at IIT Kanpur</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Probability and Statistics**
 
