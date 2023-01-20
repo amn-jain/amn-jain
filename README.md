@@ -16,6 +16,6 @@
 <a href="https://fb.com/amanjain252002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amanjain252002" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanjain252002&show_icons=true&locale=en&layout=compact" alt="amanjain252002" width='300px'/></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanjain252002&show_icons=true&locale=en&layout=compact" alt="amanjain252002" width='300px'/></p> -->
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=amanjain252002&show_icons=true&locale=en" alt="amanjain252002" width='400px'/></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=amanjain252002&show_icons=true&locale=en" alt="amanjain252002" width='400px'/></p> -->
